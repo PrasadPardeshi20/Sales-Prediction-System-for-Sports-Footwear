@@ -1,9 +1,8 @@
 # Global Sports Footwear Sales Prediction
 
-A machine learning project that predicts sales/revenue for global sports footwear
-products using real-world retail data.  
-The project demonstrates an end-to-end ML workflow along with a lightweight
-Streamlit deployment for interactive predictions.
+**Project Status:** Complete and demo-ready with interactive deployment
+
+A machine learning project that predicts sales/revenue …
 
 ---
 
